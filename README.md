@@ -22,6 +22,7 @@ Todo Plus+ is a modern todo list application built with React and TypeScript. Se
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
 - [Issues](#Issues)
+- [License](#License)
 - [Feedback](#Feedback)
 
 ## Features
