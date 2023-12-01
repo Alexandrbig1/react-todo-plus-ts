@@ -3,6 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/react-todo-plus-ts)](https://github.com/Alexandrbig1/react-todo-plus-ts/commits/main)
+[![GitHub license](https://img.shields.io/github/license/Alexandrbig1/react-todo-plus-ts)](https://github.com/Alexandrbig1/react-todo-plus-ts/blob/main/LICENSE)
 
 Todo Plus+ is a modern todo list application built with React and TypeScript. Seamlessly manage your tasks with features such as adding and deleting todo items. Enhance your productivity by switching between light and dark themes. Todo Plus+ utilizes local storage to ensure your todo items persist even when you close the app. Experience a clean and intuitive interface, styled with Styled Components, and enjoy real-time notifications with React Toastify.
 
@@ -51,6 +52,10 @@ _Caption for Screenshot 2 (Dark Theme)_
 ## Issues
 
 If you encounter any issues or have suggestions, please [open an issue](https://github.com/Alexandrbig1/movies-info/issues).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback:
 
