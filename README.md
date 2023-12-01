@@ -1,47 +1,89 @@
-# Getting Started with Create React App
+# Todo Plus+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/react-todo-plus-ts)](https://github.com/Alexandrbig1/react-todo-plus-ts/commits/main)
 
-## Available Scripts
+[Short description of your project]
 
-In the project directory, you can run:
+## Built With
 
-### `npm start`
+- ![Alt text](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+- ![Alt text](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+- ![Alt text](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+- ![Alt text](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+- ![Alt text](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+- ![Alt text](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
+- [Features](#features)
+- [Technologies](#technologies)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [Issues](#Issues)
+- [License](#license)
+- [Feedback](#Feedback)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Features
 
-### `npm test`
+- Add and delete todo items
+- Switch between light and dark themes
+- Local storage for persistent data
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies
 
-### `npm run build`
+- React
+- TypeScript
+- Styled Components
+- Local Storage
+- React Icons
+- React Toastify
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project Preview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshots:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![React Todo Plus TypeScript](./public/images/movies-screen1.jpg)
+_Caption for Screenshot 1 (Light Theme)_
 
-### `npm run eject`
+![React Todo Plus TypeScript](./public/images/movies-screen2.jpg)
+_Caption for Screenshot 2 (Dark Theme)_
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Issues
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/Alexandrbig1/movies-info/issues).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Feedback:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+I welcome feedback and suggestions from users to improve the application's functionality and user experience.
 
-## Learn More
+## Languages and Tools:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align="center">  
+ 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# react-todo-plus-ts
+## Connect with me:
+
+<div align="center">
+<a href="https://linkedin.com/in/alex-smagin29" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/alexandrbig1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  <a href="https://stackoverflow.com/users/22484161/alex-smagin" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/Alexandrbig1" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/a1126" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+</div>
