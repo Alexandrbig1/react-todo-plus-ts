@@ -1,4 +1,5 @@
 # Todo Plus+
+
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/react-todo-plus-ts)](https://github.com/Alexandrbig1/react-todo-plus-ts/commits/main)
@@ -15,6 +16,7 @@ Todo Plus+ is a modern todo list application built with React and TypeScript. Se
 - ![Alt text](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 
 ## Table of Contents
+
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
@@ -40,10 +42,10 @@ Todo Plus+ is a modern todo list application built with React and TypeScript. Se
 
 ### Screenshots:
 
-![React Todo Plus TypeScript](./public/images/movies-screen1.jpg)
+![React Todo Plus TypeScript](./public/images/ts1.jpg)
 _Caption for Screenshot 1 (Light Theme)_
 
-![React Todo Plus TypeScript](./public/images/movies-screen2.jpg)
+![React Todo Plus TypeScript](./public/images/ts2.jpg)
 _Caption for Screenshot 2 (Dark Theme)_
 
 ## Issues
