@@ -3,7 +3,7 @@
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Alexandrbig1/react-todo-plus-ts)](https://github.com/Alexandrbig1/react-todo-plus-ts/commits/main)
 
-[Short description of your project]
+Todo Plus+ is a modern todo list application built with React and TypeScript. Seamlessly manage your tasks with features such as adding and deleting todo items. Enhance your productivity by switching between light and dark themes. Todo Plus+ utilizes local storage to ensure your todo items persist even when you close the app. Experience a clean and intuitive interface, styled with Styled Components, and enjoy real-time notifications with React Toastify.
 
 ## Built With
 
@@ -18,9 +18,7 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
 - [Issues](#Issues)
-- [License](#license)
 - [Feedback](#Feedback)
 
 ## Features
