@@ -7,6 +7,6 @@ export const Wrapper = styled.div`
   justify-content: center;
   background-color: ${(p) => p.theme.colors.containerColor};
   border-radius: 4px;
-  width: 42rem;
+  max-width: 42rem;
   margin: 2.4rem auto;
 `;

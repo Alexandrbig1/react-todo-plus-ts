@@ -13,6 +13,8 @@ export const GlobalStyle = createGlobalStyle` * {
   body {
   background-color: ${(p) => p.theme.colors.mainBgColor};
   font-family: 'Roboto', sans-serif;
+  padding: 1.2rem;
+
   }
 
   p {

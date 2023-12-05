@@ -28,6 +28,19 @@ export default function NewTodo({
 
   function todoSubmitHandler(e: React.FormEvent) {
     e.preventDefault();
+    if (inputText.length === 0) {
+      toast.warn("Please enter a task before adding it to your to-do list.", {
+        position: "top-right",
+        autoClose: 5000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+        progress: undefined,
+        theme: "light",
+      });
+      return;
+    }
     onAddTodo(inputText);
     setInputText("");
 
