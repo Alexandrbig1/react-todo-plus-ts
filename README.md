@@ -52,7 +52,7 @@ _Caption for Screenshot 2 (Dark Theme)_
 
 ## Issues
 
-If you encounter any issues or have suggestions, please [open an issue](https://github.com/Alexandrbig1/movies-info/issues).
+If you encounter any issues or have suggestions, please [open an issue](https://github.com/Alexandrbig1/react-todo-plus-ts/issues).
 
 ## License
 
